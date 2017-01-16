@@ -3,10 +3,7 @@
 
 ## Day 8: January 13, 2017 
 
-**Today's Progress: working on URL Shortener Microservice project FreeCodeCamp.
-
-Thoughts: 
-Link to work: 
+**Today's Progress: working on URL Shortener Microservice project FreeCodeCamp.**
 
 =============================================================================================
 
@@ -17,5 +14,5 @@ Link to work:
 =============================================================================================
 
 ## Day 10: January 15, 2017 
-__Today's Progress: make a signup app by express , bootstrap __
-__Thoughts: Finally it works and return the form data __
+__Today's Progress: make a signup app by express , bootstrap__
+__Thoughts: Finally it works and return the form data__
