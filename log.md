@@ -17,3 +17,11 @@
 __Today's Progress: make a signup app by express , bootstrap__
 
 __Thoughts: Finally it works and return the form data__
+
+=============================================================================================
+
+## Day 11: January 16, 2017 
+__Today's Progress: make a signup app by express , bootstrap add some style by css and it return all the data__
+
+__Thoughts: Finally it is look nice__
+
