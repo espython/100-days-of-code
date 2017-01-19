@@ -25,3 +25,9 @@ __Today's Progress: make a signup app by express , bootstrap add some style by c
 
 __Thoughts: Finally it is look nice__
 
+=============================================================================================
+
+## Day 12: January 18, 2017 
+__Today's Progress: Reading about javascript Document Opject Model__
+
+__Thoughts: It is very important to understand this very well__
