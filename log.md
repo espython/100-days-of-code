@@ -31,3 +31,11 @@ __Thoughts: Finally it is look nice__
 __Today's Progress: Reading about javascript Document Opject Model__
 
 __Thoughts: It is very important to understand this very well__
+
+
+=============================================================================================
+
+## Day 13: January 19, 2017 
+__Today's Progress: Reading about jquery__
+
+__Thoughts: It is very important to understand this very well__
