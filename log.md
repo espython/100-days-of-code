@@ -38,4 +38,9 @@ __Thoughts: It is very important to understand this very well__
 ## Day 13: January 19, 2017 
 __Today's Progress: Reading about jquery__
 
+=============================================================================================
+
+## Day 14: January 20, 2017 
+__Today's Progress: Reading about jquery on Head first JQuery book it's wonderful book__
+
 __Thoughts: It is very important to understand this very well__
