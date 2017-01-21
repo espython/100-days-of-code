@@ -44,3 +44,10 @@ __Today's Progress: Reading about jquery__
 __Today's Progress: Reading about jquery on Head first JQuery book it's wonderful book__
 
 __Thoughts: It is very important to understand this very well__
+
+=============================================================================================
+
+## Day 15: January 21, 2017 
+__Today's Progress:Continue  Reading about jquery on Head first JQuery book it's become more  wonderful book__
+
+__Thoughts: It is very important to understand this very well__
