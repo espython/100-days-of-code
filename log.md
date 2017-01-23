@@ -58,3 +58,11 @@ __Thoughts: It is very important to understand this very well__
 __Today's Progress: Working on my signup app with nodejs ,express.js and now it can connect with the database__
 
 __Thoughts: It is very nice to work on a real project and signup system is very important for backend developer__
+
+
+=============================================================================================
+
+## Day 17: January 23, 2017 
+__Today's Progress: Working on my signup app with nodejs ,express.js adding some frontend options like modal message say thank you__
+
+__Thoughts: It is very nice to work on a real project and signup system is very important for backend developer__
