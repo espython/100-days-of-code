@@ -71,3 +71,7 @@ __Thoughts: It is very nice to work on a real project and signup system is very 
 
 ## Day 18: January 31, 2017 
 __Today's Progress: Finishing 1st week of java for android on edx [android Diploma ]__
+=============================================================================================
+
+## Day 19: February 3, 2017 
+__Today's Progress: Learning Java by reading Starting out with java it's very good book__
