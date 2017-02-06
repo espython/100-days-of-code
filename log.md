@@ -78,3 +78,10 @@ __Today's Progress: Finishing 1st week of java for android on edx [android Diplo
 ## Day 19: February 3, 2017 
 
 __Today's Progress: Learning Java by reading Starting out with java it's very good book__
+
+
+=============================================================================================
+
+## Day 20: February 5, 2017 
+
+__Today's Progress: Learning Java by reading Starting out with java it's very good book__
