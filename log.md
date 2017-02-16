@@ -85,6 +85,7 @@ __Today's Progress: Learning Java by reading Starting out with java it's very go
 ## Day 20: February 5, 2017 
 
 __Today's Progress: Learning Java by reading Starting out with java it's very good book__
+
 =============================================================================================
 
 ## Day 21-27: February 16, 2017 
