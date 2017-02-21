@@ -92,3 +92,9 @@ __Today's Progress: Learning Java by reading Starting out with java it's very go
 
 __Last week  Progress: Learning Java and android__
 
+=============================================================================================
+
+## Day 30: February 21, 2017 
+
+__Last week  Progress: Learning Java and android java java java__
+
